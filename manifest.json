@@ -1,0 +1,7 @@
+{
+  "versionCode": 5083,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-83/social-world-5083.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-83/social-world-5083-arm64.apk",
+  "notes": "- Автообновление: публиковать APK и манифест в social-world-releases, не в Supabase Storage\n- CI: публиковать релиз APK и манифест обновления автоматически при push в main\n- 0029: лимит файла ws-files 25 → 100 МБ (голосовые/видео в чате панели)\n- Закрыть доступ anon/PUBLIC к функциям базы — накатано на прод\n- Реферальный QR у мест: статистика установок по коду места\n- 0023: posts.quest_id создаётся до функций, которые его читают\n- Вкладка «Моменты» переименована в Flow (тестовое имя)\n- Квесты, «Мне надо» и «Страна | Город» в Моментах (миграции 0023, 0024 не накатаны)\n- Release catalog for the team dashboard: notes from commits, ws_app_releases\n- Тест строки обновлений: убран лишний импорт rendering.dart\n- Строка обновлений: два состояния, заголовок не ломается; arm64-файл без лишних библиотек\n- Автообновление: хлебные крошки, живая кнопка, докачка и лёгкий arm64-файл\n- Чип «Моменты» не обрезается; единая шкала версий, чтобы автообновление работало\n- Пустой Pulse: экран схлопывался в 0x0 из-за невидимого интро\n- Pulse: кнопка «где я» не налезает на баннер «ничего не найдено»"
+}
