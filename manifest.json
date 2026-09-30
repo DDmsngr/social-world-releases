@@ -1,7 +1,7 @@
 {
-  "versionCode": 5087,
+  "versionCode": 5088,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-87/social-world-5087.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-87/social-world-5087-arm64.apk",
-  "notes": "- Чаты: фото, видео, кружки, голосовые, файлы, стикеры (перенос из DDChat)"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-88/social-world-5088.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-88/social-world-5088-arm64.apk",
+  "notes": "- Одна копия приложения; в личку без ключей собеседника поле ввода скрыто"
 }
