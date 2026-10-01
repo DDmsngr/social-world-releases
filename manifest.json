@@ -1,7 +1,7 @@
 {
-  "versionCode": 5095,
+  "versionCode": 5096,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-95/social-world-5095.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-95/social-world-5095-arm64.apk",
-  "notes": "- Пригласить из контактов: кто уже в ChaWo и SMS-приглашение"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-96/social-world-5096.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-96/social-world-5096-arm64.apk",
+  "notes": "- Уведомления чатов: режим (звук / вибрация / тихо / выкл) и «выключить на…»\n- Участники событий: друзья первыми, мини-аватарки на карточке; заготовка GlassSurface"
 }
