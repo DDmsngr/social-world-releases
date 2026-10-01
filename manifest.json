@@ -1,7 +1,7 @@
 {
-  "versionCode": 5091,
+  "versionCode": 5092,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-91/social-world-5091.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-91/social-world-5091-arm64.apk",
-  "notes": "- Настройки: номер предлагаемой сборки отдельной строкой, заголовок не трогаем\n- Настройки: в строке обновления виден номер предлагаемой сборки\n- Заметки: сводка для боевой сессии (что сделано, планы, решения, что осталось)\n- Чат: ответ свайпом, пересылка, отправка без звука/потом/когда будет в сети, лечение зависаний"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-92/social-world-5092.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-92/social-world-5092-arm64.apk",
+  "notes": "- «Назад» со вкладки ведёт на Pulse: PopScope сообщает системе, что кнопку обрабатывает приложение"
 }
