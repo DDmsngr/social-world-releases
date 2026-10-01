@@ -1,7 +1,7 @@
 {
-  "versionCode": 5092,
+  "versionCode": 5094,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-92/social-world-5092.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-92/social-world-5092-arm64.apk",
-  "notes": "- «Назад» со вкладки ведёт на Pulse: PopScope сообщает системе, что кнопку обрабатывает приложение"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-94/social-world-5094.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-94/social-world-5094-arm64.apk",
+  "notes": "- Фото: перед загрузкой вырезаем метаданные (GPS, модель телефона), ориентация остаётся\n- Чат: фото по пропорциям, превью в меню, скорость 1–2,5×, галочки в списке, уборка файлов"
 }
