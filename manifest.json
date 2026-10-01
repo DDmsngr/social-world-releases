@@ -1,7 +1,7 @@
 {
-  "versionCode": 5100,
+  "versionCode": 5101,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-100/social-world-5100.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-100/social-world-5100-arm64.apk",
-  "notes": "- Чаты и каналы без VPN: API через российскую точку; канал: тап по посту, подписка в шапке, владелец «ChaWo»"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-101/social-world-5101.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-101/social-world-5101-arm64.apk",
+  "notes": "- Цвета из макетов дизайнера, починка кнопок «Подписаться» в списках"
 }
