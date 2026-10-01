@@ -1,7 +1,7 @@
 {
-  "versionCode": 5096,
+  "versionCode": 5099,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-96/social-world-5096.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-96/social-world-5096-arm64.apk",
-  "notes": "- Уведомления чатов: режим (звук / вибрация / тихо / выкл) и «выключить на…»\n- Участники событий: друзья первыми, мини-аватарки на карточке; заготовка GlassSurface"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-99/social-world-5099.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-99/social-world-5099-arm64.apk",
+  "notes": "- Маршрут: нажатие на карту открывает её на весь экран с круглыми превью фото\n- Подтверждённый номер: от Яндекс ID при входе, VK — после одобрения права phone\n- Каналы: публичные и закрытые, вкладки Личные/Группы/Каналы, комментарии деревом, наполнитель"
 }
