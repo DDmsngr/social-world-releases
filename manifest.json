@@ -1,7 +1,7 @@
 {
-  "versionCode": 5101,
+  "versionCode": 5104,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-101/social-world-5101.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-101/social-world-5101-arm64.apk",
-  "notes": "- Цвета из макетов дизайнера, починка кнопок «Подписаться» в списках"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-104/social-world-5104.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-104/social-world-5104-arm64.apk",
+  "notes": "- Чат по макету: «+», красный микрофон, «в сети» в шапке, реакции; заголовки Inter; стеклянная панель вкладок\n- Цвета чата и всего приложения по полному борду дизайнера\n- Чаты: лупа на «Личных» и «Группах» ищет людей и чаты, на «Каналах» — каналы"
 }
