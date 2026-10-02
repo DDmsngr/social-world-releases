@@ -1,7 +1,7 @@
 {
-  "versionCode": 5106,
+  "versionCode": 5107,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-106/social-world-5106.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-106/social-world-5106-arm64.apk",
-  "notes": "- Каналы: видео как видео, ровная прокрутка; Pulse: кнопки больше не уезжают под меню"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-107/social-world-5107.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-107/social-world-5107-arm64.apk",
+  "notes": "- Нижняя панель: настоящее жидкое стекло с размытием"
 }
