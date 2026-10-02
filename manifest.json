@@ -1,7 +1,7 @@
 {
-  "versionCode": 5105,
+  "versionCode": 5106,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-105/social-world-5105.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-105/social-world-5105-arm64.apk",
-  "notes": "- Заставка не виснет: событие «не вошёл» больше не теряется, есть таймауты и объяснение"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-106/social-world-5106.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-106/social-world-5106-arm64.apk",
+  "notes": "- Каналы: видео как видео, ровная прокрутка; Pulse: кнопки больше не уезжают под меню"
 }
