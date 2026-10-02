@@ -1,7 +1,7 @@
 {
-  "versionCode": 5108,
+  "versionCode": 5112,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-108/social-world-5108.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-108/social-world-5108-arm64.apk",
-  "notes": "- Стекло панели: прозрачнее, блик по кромке, размытие 28"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-112/social-world-5112.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-112/social-world-5112-arm64.apk",
+  "notes": "- Стекло на всех экранах с панелью; канал открывается там, где остановились\n- Превью чата без Markdown-звёздочек; вкладки «Мои квесты» по ширине текста\n- Шторки открываются поверх плавающей панели вкладок\n- Кнопка «Группа/Канал» выше плавающей панели вкладок"
 }
