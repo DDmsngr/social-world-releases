@@ -1,7 +1,7 @@
 {
-  "versionCode": 5117,
+  "versionCode": 5118,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-117/social-world-5117.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-117/social-world-5117-arm64.apk",
-  "notes": "- Каналы: чаще и разнообразнее — больше источников, 2 поста за заход, проверка каждые 10 минут\n- Pulse: квест на карте — круглая метка с фото и пилюлей «0/8» вместо текстовой подписи"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-118/social-world-5118.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-118/social-world-5118-arm64.apk",
+  "notes": "- Кино: добавлен источник @kineman, окно свежести 96 ч"
 }
