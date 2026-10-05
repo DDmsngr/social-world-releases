@@ -1,7 +1,7 @@
 {
-  "versionCode": 5125,
+  "versionCode": 5128,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-125/social-world-5125.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-125/social-world-5125-arm64.apk",
-  "notes": "- Пуш автору сообщения на реакцию в личных и группах\n- Помощник: личный чат владельца для правок и скриншотов\n- Статья блоками: текст, фото, текст, до 10 фото, стрелки и удаление"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-128/social-world-5128.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-128/social-world-5128-arm64.apk",
+  "notes": "- Статья: полоса прогресса загрузки фото и видео, ошибки вставки видны, понятная подсказка\n- Помощник: порядок сообщений по времени, вложение сначала прикладывается, потом отправляется\n- Импорт из запрещённограмма: разбор zip-выгрузки и перенос публикаций"
 }
