@@ -1,7 +1,7 @@
 {
-  "versionCode": 5128,
+  "versionCode": 5130,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-128/social-world-5128.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-128/social-world-5128-arm64.apk",
-  "notes": "- Статья: полоса прогресса загрузки фото и видео, ошибки вставки видны, понятная подсказка\n- Помощник: порядок сообщений по времени, вложение сначала прикладывается, потом отправляется\n- Импорт из запрещённограмма: разбор zip-выгрузки и перенос публикаций"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-130/social-world-5130.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-130/social-world-5130-arm64.apk",
+  "notes": "- Поделиться внутри приложения, репосты, хэштеги, лента «Для вас», докачка больших файлов\n- Профиль сеткой в 3 колонки, разделы в отдельном окне, колокольчик сверху; подпись под фото"
 }
