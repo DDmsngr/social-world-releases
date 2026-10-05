@@ -1,7 +1,7 @@
 {
-  "versionCode": 5130,
+  "versionCode": 5131,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-130/social-world-5130.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-130/social-world-5130-arm64.apk",
-  "notes": "- Поделиться внутри приложения, репосты, хэштеги, лента «Для вас», докачка больших файлов\n- Профиль сеткой в 3 колонки, разделы в отдельном окне, колокольчик сверху; подпись под фото"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-131/social-world-5131.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-131/social-world-5131-arm64.apk",
+  "notes": "- Обновление: битый APK не оседает «готовым», новая версия вытесняет старую; правка поста спрашивает про выход"
 }
