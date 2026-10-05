@@ -1,7 +1,7 @@
 {
-  "versionCode": 5118,
+  "versionCode": 5119,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-118/social-world-5118.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-118/social-world-5118-arm64.apk",
-  "notes": "- Кино: добавлен источник @kineman, окно свежести 96 ч"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-119/social-world-5119.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-119/social-world-5119-arm64.apk",
+  "notes": "- Миграция 0043 (карта приложения для дашборда) и HANDOFF из ветки; фикс имени триггера"
 }
