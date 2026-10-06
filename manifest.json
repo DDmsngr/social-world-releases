@@ -1,7 +1,7 @@
 {
-  "versionCode": 5137,
+  "versionCode": 5138,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-137/social-world-5137.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-137/social-world-5137-arm64.apk",
-  "notes": "- Сторис: кнопки в нижней строке просмотрщика не растягиваются на весь экран (пропадала строка с «Открыть пост» и просмотрами)"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-138/social-world-5138.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-138/social-world-5138-arm64.apk",
+  "notes": "- Файлы тяжелее 49 МБ: понятное сообщение вместо общей ошибки (хранилище отвечает 413 выше 50 МБ)"
 }
