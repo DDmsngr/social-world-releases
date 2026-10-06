@@ -1,7 +1,7 @@
 {
-  "versionCode": 5136,
+  "versionCode": 5137,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-136/social-world-5136.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-136/social-world-5136-arm64.apk",
-  "notes": "- Сторис: отдельная сущность на сервере, просмотр, создание, удаление, время показа, из любого своего поста"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-137/social-world-5137.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-137/social-world-5137-arm64.apk",
+  "notes": "- Сторис: кнопки в нижней строке просмотрщика не растягиваются на весь экран (пропадала строка с «Открыть пост» и просмотрами)"
 }
