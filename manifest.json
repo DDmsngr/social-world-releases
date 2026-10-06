@@ -1,7 +1,7 @@
 {
-  "versionCode": 5131,
+  "versionCode": 5135,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-131/social-world-5131.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-131/social-world-5131-arm64.apk",
-  "notes": "- Обновление: битый APK не оседает «готовым», новая версия вытесняет старую; правка поста спрашивает про выход"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-135/social-world-5135.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-135/social-world-5135-arm64.apk",
+  "notes": "- Аватар канала: ставит владелец или админ, виден в шапке, каталоге и списке чатов\n- Каналы: альбомы из нескольких фото и видео сеткой, как в Telegram\n- Правка своих сообщений с карандашом у времени; превью видео на поддерживаемой библиотеке\n- Ссылки в чатах нажимаются, превью видео вместо чёрного квадрата, цветные плитки у текстовых постов"
 }
