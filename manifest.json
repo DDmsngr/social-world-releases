@@ -1,7 +1,7 @@
 {
-  "versionCode": 5147,
+  "versionCode": 5148,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-147/social-world-5147.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-147/social-world-5147-arm64.apk",
-  "notes": "- Обновления через свой сервер (с запасным GitHub); экран звонка: кнопки прячутся, громкая связь, слышные гудки\n- Щелчок входящего играет по громкости уведомлений: на телефонах с выключенными системными звуками его не было слышно"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-148/social-world-5148.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-148/social-world-5148-arm64.apk",
+  "notes": "Сборка android-release-148"
 }
