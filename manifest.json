@@ -1,7 +1,7 @@
 {
-  "versionCode": 5141,
+  "versionCode": 5143,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-141/social-world-5141.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-141/social-world-5141-arm64.apk",
-  "notes": "- Ярлык чата открывает чат и при закрытом приложении; фильтры профиля — одна плашка со значками; цифра непрочитанных на значке (пуш + функция 0056)\n- Миграции панели команды: 0054 подзадачи, 0055 профиль и видимость активности (перенос из First Logic)"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-143/social-world-5143.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-143/social-world-5143-arm64.apk",
+  "notes": "- Убрал из индекса случайно добавленное: служебные файлы supabase и старые миграции 0017–0021 (остаются локально)\n- Чаты: «печатает» с забавными фразами, архив и удаление чата у себя, звук и фон чата (с предложением собеседнику), щелчок входящего через системный поток"
 }
