@@ -1,1 +1,7 @@
-{   "versionCode": 5150,   "versionName": "1.0.0",   "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5150.apk",   "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5150-arm64.apk",   "notes": "- Реферальная программа: личные приглашения, 5 уровней баллов, антифрод\n- Чаты: даты по дням и плашка с датой при прокрутке; «отправляет видео…» вместо «печатает» при отправке вложений",   "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-150/social-world-5150.apk",   "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-150/social-world-5150-arm64.apk" }
+{
+  "versionCode": 5151,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-151/social-world-5151.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-151/social-world-5151-arm64.apk",
+  "notes": "- Экран Activity Points со справкой; тап по цитате ведёт к сообщению; подписи в профиле не рвутся; GitHub-манифест со ссылками на свой сервер"
+}
