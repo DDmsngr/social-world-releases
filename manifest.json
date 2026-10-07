@@ -1,7 +1,7 @@
 {
-  "versionCode": 5148,
+  "versionCode": 5150,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-148/social-world-5148.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-148/social-world-5148-arm64.apk",
-  "notes": "Сборка android-release-148"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-150/social-world-5150.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-150/social-world-5150-arm64.apk",
+  "notes": "- Реферальная программа: личные приглашения, 5 уровней баллов, антифрод\n- Чаты: даты по дням и плашка с датой при прокрутке; «отправляет видео…» вместо «печатает» при отправке вложений"
 }
