@@ -1,9 +1,7 @@
 {
-  "versionCode": 5186,
+  "versionCode": 5188,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5186.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5186-arm64.apk",
-  "notes": "- Кружок: смена камеры во время записи без потери снятого\n- Комментарии: картинки и гифки\n- Чаты: подпись к фото, видео и файлам; несколько фото одним сообщением\n- Обсуждение обновляет ветку при открытии: ответ из уведомления виден сразу",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-186/social-world-5186.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-186/social-world-5186-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-188/social-world-5188.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-188/social-world-5188-arm64.apk",
+  "notes": "- Уведомления: настройки, упоминания @ник, колокольчик\n- Кнопки под комментарием переносятся на вторую строку, а не уезжают за экран"
 }
