@@ -1,9 +1,7 @@
 {
-  "versionCode": 5165,
+  "versionCode": 5166,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5165.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5165-arm64.apk",
-  "notes": "- AppMetrica: запуск SDK и события звонка и поста",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-165/social-world-5165.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-165/social-world-5165-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-166/social-world-5166.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-166/social-world-5166-arm64.apk",
+  "notes": "- Страница приглашения: нейтральная палитра вместо розовой"
 }
