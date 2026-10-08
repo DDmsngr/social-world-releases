@@ -1,9 +1,7 @@
 {
-  "versionCode": 5180,
+  "versionCode": 5181,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5180.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5180-arm64.apk",
-  "notes": "- Аудит №4, №5, №7, №8, №11: каналы, номера, ключи, медиа, концы маршрутов",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-180/social-world-5180.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-180/social-world-5180-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-181/social-world-5181.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-181/social-world-5181-arm64.apk",
+  "notes": "- Маршрут узнаётся в сетке профиля и ленте; кружок можно снимать основной камерой"
 }
