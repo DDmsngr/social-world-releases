@@ -1,7 +1,9 @@
 {
   "versionCode": 5179,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-179/social-world-5179.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-179/social-world-5179-arm64.apk",
-  "notes": "- Превью маршрута в ленте: линия поверх плиток OpenStreetMap\n- Видимость маршрута: Всем / Подписчикам / Никому и доступ по ссылке\n- Убран случайно закоммиченный deno.lock\n- Вход через VK/Яндекс: код вместо токенов в ссылке (аудит №2)\n- Удаление аккаунта стирает файлы; Помощник читает базу на сервере"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5179.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5179-arm64.apk",
+  "notes": "- Превью маршрута в ленте: линия поверх плиток OpenStreetMap\n- Видимость маршрута: Всем / Подписчикам / Никому и доступ по ссылке\n- Убран случайно закоммиченный deno.lock\n- Вход через VK/Яндекс: код вместо токенов в ссылке (аудит №2)\n- Удаление аккаунта стирает файлы; Помощник читает базу на сервере",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-179/social-world-5179.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-179/social-world-5179-arm64.apk"
 }
