@@ -1,7 +1,9 @@
 {
   "versionCode": 5193,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-193/social-world-5193.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-193/social-world-5193-arm64.apk",
-  "notes": "- Подсказка свайпа не оставляет таймеров после закрытия экрана\n- Аватар при знакомстве, подпись под медиа, свайп вправо — выход из чата"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5193.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5193-arm64.apk",
+  "notes": "- Подсказка свайпа не оставляет таймеров после закрытия экрана\n- Аватар при знакомстве, подпись под медиа, свайп вправо — выход из чата",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-193/social-world-5193.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-193/social-world-5193-arm64.apk"
 }
