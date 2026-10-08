@@ -1,9 +1,7 @@
 {
-  "versionCode": 5163,
+  "versionCode": 5164,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5163.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5163-arm64.apk",
-  "notes": "- Черновик для юриста: персональные данные, согласия, основа соглашения\n- Каналы: прочитанное по увиденному, каталог без своих подписок",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-163/social-world-5163.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-163/social-world-5163-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-164/social-world-5164.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-164/social-world-5164-arm64.apk",
+  "notes": "- Удаление аккаунта: delete_my_account и кнопка в настройках"
 }
