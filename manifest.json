@@ -1,7 +1,9 @@
 {
   "versionCode": 5202,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-202/social-world-5202.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-202/social-world-5202-arm64.apk",
-  "notes": "- Убрана из репозитория случайно добавленная папка android/build\n- «Поделиться» из других приложений: ChaWo в системном списке\n- Карта по принципу окна «+»: чистый экран, фильтры в одном месте; кружок с зумом; статус «в сети» без лага"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5202.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5202-arm64.apk",
+  "notes": "- Убрана из репозитория случайно добавленная папка android/build\n- «Поделиться» из других приложений: ChaWo в системном списке\n- Карта по принципу окна «+»: чистый экран, фильтры в одном месте; кружок с зумом; статус «в сети» без лага",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-202/social-world-5202.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-202/social-world-5202-arm64.apk"
 }
