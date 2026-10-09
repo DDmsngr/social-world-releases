@@ -1,7 +1,9 @@
 {
   "versionCode": 5205,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-205/social-world-5205.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-205/social-world-5205-arm64.apk",
-  "notes": "- Реакции в пузыре больше не раздувают его на всю ширину; тест положения панели"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5205.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5205-arm64.apk",
+  "notes": "- Реакции в пузыре больше не раздувают его на всю ширину; тест положения панели",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-205/social-world-5205.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-205/social-world-5205-arm64.apk"
 }
