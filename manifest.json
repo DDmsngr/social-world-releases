@@ -1,9 +1,7 @@
 {
-  "versionCode": 5215,
+  "versionCode": 5217,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5215.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5215-arm64.apk",
-  "notes": "- Каналы: тап по посту — реакции, долгий тап — меню; настройки компактнее; без плашки о закрепе над полем ввода",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-215/social-world-5215.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-215/social-world-5215-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-217/social-world-5217.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-217/social-world-5217-arm64.apk",
+  "notes": "- Предпросмотр ссылок: карточку достаёт телефон отправителя, едет внутри сообщения\n- Часы с очередью отложенных рядом со смайлом, правка отложенных; плашки выше поля ввода"
 }
