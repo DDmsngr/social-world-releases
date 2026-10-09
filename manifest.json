@@ -1,9 +1,7 @@
 {
-  "versionCode": 5211,
+  "versionCode": 5212,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5211.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5211-arm64.apk",
-  "notes": "- Превью фото/видео в цитатах ответов; тумблер «Ещё и в историях» при публикации момента",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-211/social-world-5211.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-211/social-world-5211-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-212/social-world-5212.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-212/social-world-5212-arm64.apk",
+  "notes": "- Истории в интерфейсе называются «блики»"
 }
