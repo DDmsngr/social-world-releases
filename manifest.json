@@ -1,9 +1,7 @@
 {
-  "versionCode": 5220,
+  "versionCode": 5224,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5220.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5220-arm64.apk",
-  "notes": "- Панель реакций и меню идут за сообщением, если список сдвинулся",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-220/social-world-5220.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-220/social-world-5220-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-224/social-world-5224.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-224/social-world-5224-arm64.apk",
+  "notes": "- Тест live_feed: без гонки таймеров\n- Теги: отдельная строка с чипами и подсказками, минимум 2 у момента и статьи\n- Щелчки: свежий проигрыватель на каждый звук, щелчок входящего и в открытом чате; прочитанное по времени сообщения\n- Карта-фон маршрута обрезается по плитке; в редакторе статьи черновик иконкой"
 }
