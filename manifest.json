@@ -1,9 +1,7 @@
 {
-  "versionCode": 5225,
+  "versionCode": 5226,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5225.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5225-arm64.apk",
-  "notes": "- Приглашения: отдельный раздел в «Мои разделы», вкладка в профиле убрана",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-225/social-world-5225.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-225/social-world-5225-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-226/social-world-5226.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-226/social-world-5226-arm64.apk",
+  "notes": "- Статья: кнопка «Поделиться» в шапке открывает внутри-приложения и внешнюю ссылку"
 }
