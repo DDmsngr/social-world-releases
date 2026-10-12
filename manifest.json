@@ -1,9 +1,7 @@
 {
-  "versionCode": 5231,
+  "versionCode": 5233,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5231.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5231-arm64.apk",
-  "notes": "- Реакции на одной строке со временем; ключ собеседника перечитывается раз в минуту",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-231/social-world-5231.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-231/social-world-5231-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-233/social-world-5233.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-233/social-world-5233-arm64.apk",
+  "notes": "- Выбор нескольких сообщений в чате; «Поделиться» отправляет все фото сетки\n- Видео в чатах сжимается на телефоне; щипок по фото работает; уведомление открытого чата убирается"
 }
