@@ -1,9 +1,7 @@
 {
-  "versionCode": 5233,
+  "versionCode": 5234,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5233.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5233-arm64.apk",
-  "notes": "- Выбор нескольких сообщений в чате; «Поделиться» отправляет все фото сетки\n- Видео в чатах сжимается на телефоне; щипок по фото работает; уведомление открытого чата убирается",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-233/social-world-5233.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-233/social-world-5233-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-234/social-world-5234.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-234/social-world-5234-arm64.apk",
+  "notes": "- Карта: поиск по Яндекс.Картам и «Где я»; полоса загрузки вложений поста; видео «файлом» в чате тоже сжимается"
 }
