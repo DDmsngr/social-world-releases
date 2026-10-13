@@ -1,7 +1,9 @@
 {
   "versionCode": 5253,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-253/social-world-5253.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-253/social-world-5253-arm64.apk",
-  "notes": "- Каналы: «Читать дальше» не уносит текст (верх держится на месте), превью видео подгружаются сами"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5253.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5253-arm64.apk",
+  "notes": "- Каналы: «Читать дальше» не уносит текст (верх держится на месте), превью видео подгружаются сами",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-253/social-world-5253.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-253/social-world-5253-arm64.apk"
 }
