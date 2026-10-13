@@ -1,9 +1,7 @@
 {
-  "versionCode": 5255,
+  "versionCode": 5256,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5255.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5255-arm64.apk",
-  "notes": "- Чат: удаление при массовом выборе; тап по цитате-блику открывает блик; каналы: плавающая плашка с датой",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-255/social-world-5255.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-255/social-world-5255-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-256/social-world-5256.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-256/social-world-5256-arm64.apk",
+  "notes": "- Лента: посты «только мне» не показываются в общей ленте; звуки щелчка и отправки идут по громкости медиа"
 }
