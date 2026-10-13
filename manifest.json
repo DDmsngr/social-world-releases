@@ -1,9 +1,7 @@
 {
-  "versionCode": 5247,
+  "versionCode": 5250,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5247.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5247-arm64.apk",
-  "notes": "- Стикеры: пак «Палыч» (24, 18+); одна кнопка смайла вместо отдельной кнопки стикеров; один свой смайл в поле уходит стикером; убрать пак — с карточки магазина, из шапки пака и долгим тапом по вкладке панели (с «Вернуть»)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-247/social-world-5247.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-247/social-world-5247-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-250/social-world-5250.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-250/social-world-5250-arm64.apk",
+  "notes": "- Стикеры: зажатый в панели стикер раскрывается крупно, пока держишь\n- Тест каталога: 251 стикер с паком «Викинг»\n- Стикеры: пак «Викинг» (16, 18+), flatten_sheet для листов на светлом фоне; баннер пака знает, что он установлен; «Вернуть» в снекбаре заметнее"
 }
