@@ -1,7 +1,9 @@
 {
   "versionCode": 5240,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-240/social-world-5240.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-240/social-world-5240-arm64.apk",
-  "notes": "- Кружок в кнопке голосового (тап переключает, удержание 1,5 с пишет), точка на карте одна, 'Читать дальше' в постах канала, список подписчиков для админов (0077)"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5240.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5240-arm64.apk",
+  "notes": "- Кружок в кнопке голосового (тап переключает, удержание 1,5 с пишет), точка на карте одна, 'Читать дальше' в постах канала, список подписчиков для админов (0077)",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-240/social-world-5240.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-240/social-world-5240-arm64.apk"
 }
