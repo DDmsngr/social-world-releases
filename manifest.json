@@ -1,7 +1,7 @@
 {
-  "versionCode": 5236,
+  "versionCode": 5239,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-236/social-world-5236.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-236/social-world-5236-arm64.apk",
-  "notes": "- Передача по стикерам и своим эмодзи: что сделано, где лежит, как довести до main\n- Свои эмодзи в тексте: смайлы из паков встают в сообщение картинкой\n- Панель эмодзи: свои стикеры первыми и открывается на них\n- Фирменные стикеры: 4 пака по 35 и поиск по словам («любовь» — все стикеры про любовь)"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-239/social-world-5239.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-239/social-world-5239-arm64.apk",
+  "notes": "- Автоподписка новых пользователей на канал chawo (0076)\n- Скрипт ключа наполнителя: кодировка UTF-8 с BOM, иначе Windows PowerShell ломает русские строки\n- Каналы: несколько тем и свои темы; наполнитель с временем источника и на новом сервере"
 }
