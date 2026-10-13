@@ -1,9 +1,7 @@
 {
-  "versionCode": 5251,
+  "versionCode": 5252,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5251.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5251-arm64.apk",
-  "notes": "- Видео: сжатие только от 40 МБ, тяжёлые (150+ МБ) сразу в 480p, проценты в чате",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-251/social-world-5251.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-251/social-world-5251-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-252/social-world-5252.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-252/social-world-5252-arm64.apk",
+  "notes": "- Чат: превью видео в пропорциях ролика (вертикальное — вертикальное), пропорции запоминаются"
 }
