@@ -1,7 +1,9 @@
 {
   "versionCode": 5250,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-250/social-world-5250.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-250/social-world-5250-arm64.apk",
-  "notes": "- Стикеры: зажатый в панели стикер раскрывается крупно, пока держишь\n- Тест каталога: 251 стикер с паком «Викинг»\n- Стикеры: пак «Викинг» (16, 18+), flatten_sheet для листов на светлом фоне; баннер пака знает, что он установлен; «Вернуть» в снекбаре заметнее"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5250.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5250-arm64.apk",
+  "notes": "- Стикеры: зажатый в панели стикер раскрывается крупно, пока держишь\n- Тест каталога: 251 стикер с паком «Викинг»\n- Стикеры: пак «Викинг» (16, 18+), flatten_sheet для листов на светлом фоне; баннер пака знает, что он установлен; «Вернуть» в снекбаре заметнее",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-250/social-world-5250.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-250/social-world-5250-arm64.apk"
 }
