@@ -1,9 +1,7 @@
 {
-  "versionCode": 5245,
+  "versionCode": 5246,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5245.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5245-arm64.apk",
-  "notes": "- Стикеры: общий нарезчик add_pack.py по спеке specs/<пак>.json (вместо add_alexa.py), README\n- Магазин стикеров: каталог в базе (0078/0079), коллекция пользователя, экраны магазина, пака и «Моих стикеров», панель только установленных, переход к паку по стикеру из сообщения",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-245/social-world-5245.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-245/social-world-5245-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-246/social-world-5246.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-246/social-world-5246-arm64.apk",
+  "notes": "- Стикеры: пак «Жиза» (24, парень) и второй лист «Алексы» (+24 с подписями); нарезчик: границы рядов по пустой строке, чистка полупрозрачных остатков, режим into, drop_far"
 }
