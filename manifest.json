@@ -1,7 +1,9 @@
 {
   "versionCode": 5263,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-263/social-world-5263.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-263/social-world-5263-arm64.apk",
-  "notes": "- Станочник: синоним «всё ок» заменён (короткое «ок» тянуло стикеры на любое сообщение), тест каталога зелёный\n- Стикеры: пак «Станочник» (12, 18+, мемы)\n- Рефералка: вопрос «Вас пригласили в ChaWo?» после регистрации; приглашение из контактов запоминает номер и шлёт личную ссылку, а вход с подтверждённым номером засчитывает его сам (миграция 0081); VK-подтверждение номера включено"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5263.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5263-arm64.apk",
+  "notes": "- Станочник: синоним «всё ок» заменён (короткое «ок» тянуло стикеры на любое сообщение), тест каталога зелёный\n- Стикеры: пак «Станочник» (12, 18+, мемы)\n- Рефералка: вопрос «Вас пригласили в ChaWo?» после регистрации; приглашение из контактов запоминает номер и шлёт личную ссылку, а вход с подтверждённым номером засчитывает его сам (миграция 0081); VK-подтверждение номера включено",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-263/social-world-5263.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-263/social-world-5263-arm64.apk"
 }
