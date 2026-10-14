@@ -1,9 +1,7 @@
 {
-  "versionCode": 5284,
+  "versionCode": 5286,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5284.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5284-arm64.apk",
-  "notes": "- Фиолетовая кайма для виртуальных авторов ChaWo (миграция 0090, пока не накатана)\n- Очередь постов в каналы на сервере (pg_cron): ежедневные новости разработки в chawo (миграция 0089)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-284/social-world-5284.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-284/social-world-5284-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-286/social-world-5286.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-286/social-world-5286-arm64.apk",
+  "notes": "- Виртуальные авторы: описание, помощник для Википедии, первые посты в очереди\n- Виртуальные авторы ChaWo: шесть аккаунтов, очередь постов от их имени (миграции 0090, 0091)"
 }
