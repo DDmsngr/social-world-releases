@@ -1,9 +1,7 @@
 {
-  "versionCode": 5275,
+  "versionCode": 5276,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5275.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5275-arm64.apk",
-  "notes": "- Блик: тап по аватару или имени автора открывает его профиль\n- Дата рождения набирается цифрами, точки встают сами; календарь — по кнопке",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-275/social-world-5275.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-275/social-world-5275-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-276/social-world-5276.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-276/social-world-5276-arm64.apk",
+  "notes": "- Восстановление личной переписки после смены ключа: собеседник перекладывает историю под новый ключ (миграция 0084)"
 }
