@@ -1,9 +1,7 @@
 {
-  "versionCode": 5287,
+  "versionCode": 5288,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5287.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5287-arm64.apk",
-  "notes": "- Канал открывается на месте по данным сервера; плашка стикерпака уходит за 3 с; статус прочтения в группах",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-287/social-world-5287.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-287/social-world-5287-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-288/social-world-5288.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-288/social-world-5288-arm64.apk",
+  "notes": "- Блик не закрывается за долю секунды при отключённых анимациях в системе"
 }
