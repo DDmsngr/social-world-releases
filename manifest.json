@@ -1,7 +1,9 @@
 {
   "versionCode": 5281,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-281/social-world-5281.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-281/social-world-5281-arm64.apk",
-  "notes": "- Сменившийся ключ собеседника принимается сам (прежний — для восстановления переписки); группу можно создать без названия — назовётся по участникам\n- Кайма аватара: золотая у команды, зелёная у тестировщиков (миграция 0087); CI на main больше не отменяет сборки\n- Лайк блика сохраняется на телефоне: после перезапуска сердце закрашено и повторно не уходит"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5281.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5281-arm64.apk",
+  "notes": "- Сменившийся ключ собеседника принимается сам (прежний — для восстановления переписки); группу можно создать без названия — назовётся по участникам\n- Кайма аватара: золотая у команды, зелёная у тестировщиков (миграция 0087); CI на main больше не отменяет сборки\n- Лайк блика сохраняется на телефоне: после перезапуска сердце закрашено и повторно не уходит",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-281/social-world-5281.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-281/social-world-5281-arm64.apk"
 }
