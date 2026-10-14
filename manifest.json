@@ -1,9 +1,7 @@
 {
-  "versionCode": 5260,
+  "versionCode": 5263,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5260.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5260-arm64.apk",
-  "notes": "- VK: право phone включено по умолчанию (одобрено в кабинете), отключается VK_REQUEST_PHONE=false\n- Вход: один человек — один аккаунт. Новый вход с уже известным подтверждённым номером привязывается к существующему профилю (миграция 0080, мост входа); право phone у VK включается переменной",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-260/social-world-5260.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-260/social-world-5260-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-263/social-world-5263.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-263/social-world-5263-arm64.apk",
+  "notes": "- Станочник: синоним «всё ок» заменён (короткое «ок» тянуло стикеры на любое сообщение), тест каталога зелёный\n- Стикеры: пак «Станочник» (12, 18+, мемы)\n- Рефералка: вопрос «Вас пригласили в ChaWo?» после регистрации; приглашение из контактов запоминает номер и шлёт личную ссылку, а вход с подтверждённым номером засчитывает его сам (миграция 0081); VK-подтверждение номера включено"
 }
