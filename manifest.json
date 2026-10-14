@@ -1,7 +1,9 @@
 {
   "versionCode": 5278,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-278/social-world-5278.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-278/social-world-5278-arm64.apk",
-  "notes": "- bugs.ps1: пустой список в PowerShell 5.1 и ошибки psql не проходят молча\n- Тестировщики: владелец назначает из профиля, у тестировщика раздел «Для багов» (миграция 0086); bugs.ps1 забирает баги и отвечает «Принято на разбор»"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5278.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5278-arm64.apk",
+  "notes": "- bugs.ps1: пустой список в PowerShell 5.1 и ошибки psql не проходят молча\n- Тестировщики: владелец назначает из профиля, у тестировщика раздел «Для багов» (миграция 0086); bugs.ps1 забирает баги и отвечает «Принято на разбор»",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-278/social-world-5278.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-278/social-world-5278-arm64.apk"
 }
