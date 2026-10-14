@@ -1,7 +1,9 @@
 {
   "versionCode": 5277,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-277/social-world-5277.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-277/social-world-5277-arm64.apk",
-  "notes": "- Упоминания @ник: подсказка людей при вводе в постах, событиях и бликах; упоминание в блике — уведомление, тап открывает блик (миграция 0085)"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5277.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5277-arm64.apk",
+  "notes": "- Упоминания @ник: подсказка людей при вводе в постах, событиях и бликах; упоминание в блике — уведомление, тап открывает блик (миграция 0085)",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-277/social-world-5277.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-277/social-world-5277-arm64.apk"
 }
