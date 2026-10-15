@@ -1,9 +1,7 @@
 {
-  "versionCode": 5299,
+  "versionCode": 5303,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5299.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5299-arm64.apk",
-  "notes": "- Аудит: миграция 0094 (привязка по номеру только к живому аккаунту), честные тексты про шифрование\n- Убрал случайно попавший отчёт сборки\n- Аудит 15.10: spatial_ref_sys под RLS, миграция 0093, запрет file:// в «Поделиться», шифрованный бэкап (скрипты)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-299/social-world-5299.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-299/social-world-5299-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-303/social-world-5303.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-303/social-world-5303-arm64.apk",
+  "notes": "- Ввод текста: панель не пересобирается на каждую букву, подсказки стикеров с задержкой; панель эмодзи без смайл-паков показывает переключатель на стикеры\n- Панель: в режиме эмодзи только паки-смайлы в порядке каталога, персонажи (Чао и др.) уходят только стикерами\n- Стикеры: Алекса +24 (71), Викинг +12 (28)\n- Юридические черновики вынесены из публичного репозитория"
 }
