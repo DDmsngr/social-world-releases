@@ -1,7 +1,9 @@
 {
   "versionCode": 5307,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-307/social-world-5307.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-307/social-world-5307-arm64.apk",
-  "notes": "- post_batch: ссылки [подпись](адрес) в тексте разрешены\n- Пересылка вложений: копия файла на сервере вместо скачивания и повторной загрузки (откат на старый путь, если копия невозможна)"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5307.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5307-arm64.apk",
+  "notes": "- post_batch: ссылки [подпись](адрес) в тексте разрешены\n- Пересылка вложений: копия файла на сервере вместо скачивания и повторной загрузки (откат на старый путь, если копия невозможна)",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-307/social-world-5307.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-307/social-world-5307-arm64.apk"
 }
