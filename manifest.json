@@ -1,9 +1,7 @@
 {
-  "versionCode": 5309,
+  "versionCode": 5310,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5309.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5309-arm64.apk",
-  "notes": "- ИИ-авторы отвечают на комментарии: очередь 0095, replies.ps1, заготовка YandexGPT",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-309/social-world-5309.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-309/social-world-5309-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-310/social-world-5310.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-310/social-world-5310-arm64.apk",
+  "notes": "- Скрытые теги, кайма в уведомлениях, уведомление ведёт к комментарию с подсветкой"
 }
