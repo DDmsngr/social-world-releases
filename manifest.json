@@ -1,9 +1,7 @@
 {
-  "versionCode": 5304,
+  "versionCode": 5305,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5304.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5304-arm64.apk",
-  "notes": "- Мираж: старый пак снят (архив), новый «Мираж» из двух листов (24)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-304/social-world-5304.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-304/social-world-5304-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-305/social-world-5305.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-305/social-world-5305-arm64.apk",
+  "notes": "- Авторы: инструменты пачки постов (wiki_pack, post_batch), ещё 5 авторов в плане"
 }
