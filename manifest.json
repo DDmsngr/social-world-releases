@@ -1,7 +1,9 @@
 {
   "versionCode": 5303,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-303/social-world-5303.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-303/social-world-5303-arm64.apk",
-  "notes": "- Ввод текста: панель не пересобирается на каждую букву, подсказки стикеров с задержкой; панель эмодзи без смайл-паков показывает переключатель на стикеры\n- Панель: в режиме эмодзи только паки-смайлы в порядке каталога, персонажи (Чао и др.) уходят только стикерами\n- Стикеры: Алекса +24 (71), Викинг +12 (28)\n- Юридические черновики вынесены из публичного репозитория"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5303.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5303-arm64.apk",
+  "notes": "- Ввод текста: панель не пересобирается на каждую букву, подсказки стикеров с задержкой; панель эмодзи без смайл-паков показывает переключатель на стикеры\n- Панель: в режиме эмодзи только паки-смайлы в порядке каталога, персонажи (Чао и др.) уходят только стикерами\n- Стикеры: Алекса +24 (71), Викинг +12 (28)\n- Юридические черновики вынесены из публичного репозитория",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-303/social-world-5303.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-303/social-world-5303-arm64.apk"
 }
