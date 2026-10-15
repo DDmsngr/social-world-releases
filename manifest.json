@@ -1,7 +1,9 @@
 {
   "versionCode": 5299,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-299/social-world-5299.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-299/social-world-5299-arm64.apk",
-  "notes": "- Аудит: миграция 0094 (привязка по номеру только к живому аккаунту), честные тексты про шифрование\n- Убрал случайно попавший отчёт сборки\n- Аудит 15.10: spatial_ref_sys под RLS, миграция 0093, запрет file:// в «Поделиться», шифрованный бэкап (скрипты)"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5299.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5299-arm64.apk",
+  "notes": "- Аудит: миграция 0094 (привязка по номеру только к живому аккаунту), честные тексты про шифрование\n- Убрал случайно попавший отчёт сборки\n- Аудит 15.10: spatial_ref_sys под RLS, миграция 0093, запрет file:// в «Поделиться», шифрованный бэкап (скрипты)",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-299/social-world-5299.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-299/social-world-5299-arm64.apk"
 }
