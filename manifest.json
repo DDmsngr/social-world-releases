@@ -1,9 +1,7 @@
 {
-  "versionCode": 5318,
+  "versionCode": 5319,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5318.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5318-arm64.apk",
-  "notes": "- Блок «От амбассадора» в ленте города: кто амбассадор и его ближайшие события и квесты (0102)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-318/social-world-5318.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-318/social-world-5318-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-319/social-world-5319.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-319/social-world-5319-arm64.apk",
+  "notes": "- Амбассадоры: золотой цвет значка и блока в обеих темах, значок не тянется на всю ширину, ровные строки рейтинга"
 }
