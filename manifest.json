@@ -1,9 +1,7 @@
 {
-  "versionCode": 5317,
+  "versionCode": 5318,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5317.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5317-arm64.apk",
-  "notes": "- Амбассадоры в приложении: экран с рейтингом города, лидерами городов, годовым конкурсом и Залом славы; значок в профиле (0101)\n- Амбассадоры (0100): сезоны, рейтинги городов и мира, назначение/снятие/врио, призы, баны, Зал славы\n- Серверный скрипт автоответов — LF: CRLF ломал cron («chawo-replies.sh: not found»)\n- Автоответы: свой User-Agent — Cloudflare отбивал Python-urllib ошибкой 1010",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-317/social-world-5317.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-317/social-world-5317-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-318/social-world-5318.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-318/social-world-5318-arm64.apk",
+  "notes": "- Блок «От амбассадора» в ленте города: кто амбассадор и его ближайшие события и квесты (0102)"
 }
