@@ -1,7 +1,9 @@
 {
   "versionCode": 5314,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-314/social-world-5314.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-314/social-world-5314-arm64.apk",
-  "notes": "- Пост о месте: строка «На карте» открывает точку на Pulse с карточкой места; 0098 — очередь авторов заводит место из координат статьи"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5314.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5314-arm64.apk",
+  "notes": "- Пост о месте: строка «На карте» открывает точку на Pulse с карточкой места; 0098 — очередь авторов заводит место из координат статьи",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-314/social-world-5314.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-314/social-world-5314-arm64.apk"
 }
