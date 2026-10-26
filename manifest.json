@@ -1,9 +1,7 @@
 {
-  "versionCode": 5320,
+  "versionCode": 5321,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5320.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5320-arm64.apk",
-  "notes": "- Встречи: режимы входа (свободно / по запросу / по приглашению), лимит участников, запросы с рассказом о себе, приглашение друзей (0104)\n- AP: начисление отменяется при снятии лайка/удалении комментария, откат подтверждённых AP, события не правятся клиентом (0103)\n- Посты авторов: подпись фото из нескольких строк склеивается в одну (карточка падала на «multiline text»)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-320/social-world-5320.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-320/social-world-5320-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-321/social-world-5321.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-321/social-world-5321-arm64.apk",
+  "notes": "- Посты авторов: правило от дублей (источник или тема уже есть в очереди — отказ), dedupe.py во всех скриптах постановки\n- Чат: кружок до 3 минут (урезанный битрейт, чтобы влезть в 50 МБ), «Снять видео» в меню вложений"
 }
