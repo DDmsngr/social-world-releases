@@ -1,9 +1,7 @@
 {
-  "versionCode": 5322,
+  "versionCode": 5324,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5322.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5322-arm64.apk",
-  "notes": "- Профиль по новому макету: шапка с кнопками, значки рейтинга, «Пригласить друга», вкладки Публикации/Моменты/Квесты/Репосты (0105 ждёт наката)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-322/social-world-5322.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-322/social-world-5322-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-324/social-world-5324.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-324/social-world-5324-arm64.apk",
+  "notes": "- Тест: «3 идут», «1 идёт», «11 идут»\n- Дизайн по Figma 22.10: палитра, карточка поста (плоская, лайки), карточка встречи с аватарками"
 }
