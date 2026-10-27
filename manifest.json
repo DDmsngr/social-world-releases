@@ -1,9 +1,7 @@
 {
-  "versionCode": 5335,
+  "versionCode": 5336,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5335.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5335-arm64.apk",
-  "notes": "- Карта: крупные метки встреч, мест и точек маршрута как в Figma; меню поста и плашка на обложке плотнее; «Прочитать все» всегда на месте",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-335/social-world-5335.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-335/social-world-5335-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-336/social-world-5336.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-336/social-world-5336-arm64.apk",
+  "notes": "- Чат встречи открывается через go (пустое окно из события), фильтры чатов в порядке Личные/Встречи/Группы/Каналы/Все, метка встречи на карте вдвое крупнее"
 }
