@@ -1,7 +1,9 @@
 {
   "versionCode": 5337,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-337/social-world-5337.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-337/social-world-5337-arm64.apk",
-  "notes": "- Запись маршрута: фото можно снять или выбрать из галереи (несколько сразу)"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5337.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5337-arm64.apk",
+  "notes": "- Запись маршрута: фото можно снять или выбрать из галереи (несколько сразу)",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-337/social-world-5337.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-337/social-world-5337-arm64.apk"
 }
