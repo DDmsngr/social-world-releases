@@ -1,7 +1,9 @@
 {
   "versionCode": 5346,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-346/social-world-5346.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-346/social-world-5346-arm64.apk",
-  "notes": "- Чаты компактнее на ~12%, метка точки поста на карте, подсветка фото маршрута, «нельзяграм», выход по двойному «назад»"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5346.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5346-arm64.apk",
+  "notes": "- Чаты компактнее на ~12%, метка точки поста на карте, подсветка фото маршрута, «нельзяграм», выход по двойному «назад»",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-346/social-world-5346.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-346/social-world-5346-arm64.apk"
 }
