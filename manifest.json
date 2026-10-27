@@ -1,9 +1,7 @@
 {
-  "versionCode": 5337,
+  "versionCode": 5338,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5337.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5337-arm64.apk",
-  "notes": "- Запись маршрута: фото можно снять или выбрать из галереи (несколько сразу)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-337/social-world-5337.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-337/social-world-5337-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-338/social-world-5338.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-338/social-world-5338-arm64.apk",
+  "notes": "- Звонок: экран не гаснет, звук на Bluetooth; прошедшие события скрыты из списка"
 }
