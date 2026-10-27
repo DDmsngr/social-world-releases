@@ -1,9 +1,7 @@
 {
-  "versionCode": 5343,
+  "versionCode": 5344,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5343.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5343-arm64.apk",
-  "notes": "- Карточка выпуска новостей: шаблон и рендер в репозитории (tools/channel-queue/cards)",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-343/social-world-5343.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-343/social-world-5343-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-344/social-world-5344.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-344/social-world-5344-arm64.apk",
+  "notes": "- «На карте»: переключаем вкладку вместо push второй оболочки (горела «Лента», карта не двигалась)"
 }
