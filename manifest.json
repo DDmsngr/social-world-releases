@@ -1,9 +1,7 @@
 {
-  "versionCode": 5336,
+  "versionCode": 5337,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5336.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5336-arm64.apk",
-  "notes": "- Чат встречи открывается через go (пустое окно из события), фильтры чатов в порядке Личные/Встречи/Группы/Каналы/Все, метка встречи на карте вдвое крупнее",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-336/social-world-5336.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-336/social-world-5336-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-337/social-world-5337.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-337/social-world-5337-arm64.apk",
+  "notes": "- Запись маршрута: фото можно снять или выбрать из галереи (несколько сразу)"
 }
