@@ -1,7 +1,9 @@
 {
   "versionCode": 5330,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-330/social-world-5330.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-330/social-world-5330-arm64.apk",
-  "notes": "- Названия и иконки вкладок как в Figma (Лента, Рядом, Чаты), список чатов с фильтрами и строками по макету"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5330.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5330-arm64.apk",
+  "notes": "- Названия и иконки вкладок как в Figma (Лента, Рядом, Чаты), список чатов с фильтрами и строками по макету",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-330/social-world-5330.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-330/social-world-5330-arm64.apk"
 }
