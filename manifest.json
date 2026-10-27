@@ -1,7 +1,9 @@
 {
   "versionCode": 5340,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-340/social-world-5340.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-340/social-world-5340-arm64.apk",
-  "notes": "- Фото и видео со встречи: posts.event_id (0108), блок «Как это было», добавление из карточки события\n- Календарь событий в «Мои разделы», фото маршрута в галерею (настройка), лайк на посте вне ленты"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5340.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5340-arm64.apk",
+  "notes": "- Фото и видео со встречи: posts.event_id (0108), блок «Как это было», добавление из карточки события\n- Календарь событий в «Мои разделы», фото маршрута в галерею (настройка), лайк на посте вне ленты",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-340/social-world-5340.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-340/social-world-5340-arm64.apk"
 }
