@@ -1,9 +1,7 @@
 {
-  "versionCode": 5359,
+  "versionCode": 5360,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5359.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5359-arm64.apk",
-  "notes": "- Маршрут с камерой: метка «куда идти», фото на месте съёмки и наложение «Как это было»; иконки статусбара снова видны на светлом фоне",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-359/social-world-5359.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-359/social-world-5359-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-360/social-world-5360.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-360/social-world-5360-arm64.apk",
+  "notes": "- Паспорт города: штампы за настоящие места — дойдите до места, поставьте штамп, соберите коллекцию; места на карте и подсказка с камерой до них\n- Для тестировщиков: к отчёту о баге само прикладывается, что происходило в приложении перед ним; задания «что проверить» приходят в раздел «Для багов»"
 }
