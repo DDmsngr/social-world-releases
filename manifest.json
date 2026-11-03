@@ -1,7 +1,9 @@
 {
   "versionCode": 5362,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-362/social-world-5362.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-362/social-world-5362-arm64.apk",
-  "notes": "- Общая карта только для кураторов города; остальные предлагают точку куратору; фильтры по категориям: кафе, бары, рестораны, музеи, достопримечательности, парки, магазины"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5362.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5362-arm64.apk",
+  "notes": "- Общая карта только для кураторов города; остальные предлагают точку куратору; фильтры по категориям: кафе, бары, рестораны, музеи, достопримечательности, парки, магазины",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-362/social-world-5362.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-362/social-world-5362-arm64.apk"
 }
