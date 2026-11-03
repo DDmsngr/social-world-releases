@@ -1,7 +1,9 @@
 {
   "versionCode": 5361,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-361/social-world-5361.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-361/social-world-5361-arm64.apk",
-  "notes": "- Паспорт: причина отказа в штампе показывается в карточке (SnackBar был под ней), заметная полоса прогресса, подписи мест без переноса посреди слова; кнопка «Убрать» в AR читается\n- Нижняя панель: возвращён прежний прозрачный вид (заливка снова под бликом, как до правок плотности)\n- seed.ps1: серверная часть едет отдельным файлом (цепочка команд с кавычками ломалась в PowerShell)"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5361.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5361-arm64.apk",
+  "notes": "- Паспорт: причина отказа в штампе показывается в карточке (SnackBar был под ней), заметная полоса прогресса, подписи мест без переноса посреди слова; кнопка «Убрать» в AR читается\n- Нижняя панель: возвращён прежний прозрачный вид (заливка снова под бликом, как до правок плотности)\n- seed.ps1: серверная часть едет отдельным файлом (цепочка команд с кавычками ломалась в PowerShell)",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-361/social-world-5361.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-361/social-world-5361-arm64.apk"
 }
