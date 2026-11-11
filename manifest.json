@@ -1,9 +1,7 @@
 {
-  "versionCode": 5366,
+  "versionCode": 5367,
   "versionName": "1.0.0",
-  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5366.apk",
-  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5366-arm64.apk",
-  "notes": "- CI: куча Gradle 5g на публичном runner (упаковка универсального APK падала), перезапуск не ломается о уже созданный релиз\n- Запасной центр карты — Петербург (тест центра обновлён под пилотный город)\n- Список чатов: долгое нажатие открывает меню (закрепить, уведомления, в архив, удалить или отписаться, выбрать несколько) во всех вкладках, в том числе «Встречи»\n- «Сейчас»: позвать людей рядом за полминуты, активность на карте на два часа; «Мне надо» с типами: отдам, обмен, потерял, нашёл, ищу компанию, специалист, совет\n- Авторы и городской канал — про Петербург: темы и город авторов, канал «Петербург сегодня» с петербургскими источниками\n- Карта открывается на городе из профиля; сменил город в профиле — карта переехала туда же; без города в профиле — Петербург",
-  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-366/social-world-5366.apk",
-  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-366/social-world-5366-arm64.apk"
+  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-367/social-world-5367.apk",
+  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-367/social-world-5367-arm64.apk",
+  "notes": "- Боты в приложении: создание в «Моих разделах», чат с ботом, Bot API"
 }
