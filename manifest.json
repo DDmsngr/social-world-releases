@@ -1,7 +1,9 @@
 {
   "versionCode": 5368,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-368/social-world-5368.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-368/social-world-5368-arm64.apk",
-  "notes": "- Карта: подписи мест не наезжают друг на друга, длинные названия сокращены"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5368.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5368-arm64.apk",
+  "notes": "- Карта: подписи мест не наезжают друг на друга, длинные названия сокращены",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-368/social-world-5368.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-368/social-world-5368-arm64.apk"
 }
