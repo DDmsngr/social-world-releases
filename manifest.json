@@ -1,7 +1,9 @@
 {
   "versionCode": 5369,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-369/social-world-5369.apk",
-  "apkUrlArm64": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-369/social-world-5369-arm64.apk",
-  "notes": "- Карта: свой отбор подписей мест без наложений"
+  "apkUrl": "https://api-socialworld.deepdrift.tech/updates/social-world-5369.apk",
+  "apkUrlArm64": "https://api-socialworld.deepdrift.tech/updates/social-world-5369-arm64.apk",
+  "notes": "- Карта: свой отбор подписей мест без наложений",
+  "apkUrlFallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-369/social-world-5369.apk",
+  "apkUrlArm64Fallback": "https://github.com/DDmsngr/social-world-releases/releases/download/android-release-369/social-world-5369-arm64.apk"
 }
